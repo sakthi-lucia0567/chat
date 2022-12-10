@@ -10,6 +10,13 @@ To run this application:
       then go to the server folder then #comment "npm start"
       then the application run on "localhost:3000"
 
-https://jam.dev/c/0e553d8e-0dad-4b11-a834-25faa1c6a0dd
+#Chat room demo - https://jam.dev/c/0e553d8e-0dad-4b11-a834-25faa1c6a0dd
 
-chat room demo
+Chat room using React and node js
+## Screenshots
+
+![App Screenshot](https://jam.dev/cdn-cgi/image/width=1600,quality=100,dpr=1.5/https://storage.googleapis.com/jam-screenshots/4e6d5f51-6240-4fcd-acea-ee68d1687ab4.png)
+
+
+![App Screenshot](https://jam.dev/cdn-cgi/image/width=1600,quality=100,dpr=1.5/https://storage.googleapis.com/jam-screenshots/71fb8c0d-a3cf-4b9d-9925-de884ba56044.png)
+
